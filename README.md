@@ -1,1 +1,1 @@
-My web assembly happ place
+My web assembly happy place
